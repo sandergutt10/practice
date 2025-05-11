@@ -30,3 +30,5 @@ git commit -m "Last Commit"
 git remote add origin https://github.com/sandergutt10/practice.git
 git branch -M main
 git push -u origin main
+git commit -m "123"
+git pull
